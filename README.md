@@ -30,8 +30,7 @@
 </div>
   
 <div class="motion">
-   <div class="circle"></div>
-   <style>
+   <div class="circle">
       .motion{
               background: #000;
               width:200px;
@@ -70,7 +69,7 @@
     transform: rotate(360deg);
   }
 }
-</styles>
+</div>
 </div>
 
 <!--
