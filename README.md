@@ -30,7 +30,7 @@
 </div>
   
 <div class="motion">
-   <div class="circle">
+   <div class="circle"></div>
    <style>
       .motion{
               background: #000;
@@ -71,7 +71,6 @@
   }
 }
 </styles>
-</div>
 </div>
 
 <!--
