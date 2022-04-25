@@ -30,7 +30,7 @@
 </div>
   
 <div class="motion">
-   <div class="circlr">
+   <div class="circle">
    <style>
       .motion{
               background: #000;
