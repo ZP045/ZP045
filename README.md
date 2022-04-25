@@ -28,6 +28,51 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZP045&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZP045&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+<div class="motion">
+   <div class="circlr">
+   <style>
+      .motion{
+              background: #000;
+              width:200px;
+              height:200px;
+              border-radius:50%;
+              position:relative;
+              display:flex;
+              justify-content:center;
+              align-items:center;
+}
+.circle {
+  width:100px;
+  height:100px;
+  border:1px solid #fff;
+  position:absolut;
+  border-radius: 50%;
+  animation: circleAnimation 2s linear infinite;
+}
+     .circle::before {
+              content: '';
+              position: absolute;
+              top: -10px;
+              left: -50%;
+              transform: translatex(-50%);
+              width: 20px;
+              heigth: 20px;
+              border-radius: 50%;
+              background: #04fc43;
+              box-shadow: 0 0 20px #04fc43, 0 0 60px #04fc43;
+}
+@keyframes circleAnimation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+</styles>
+</div>
+</div>
 
 <!--
 **ZP045/ZP045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
