@@ -3,7 +3,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
 
 
-- Fun fact: Love cats, the universe and Ice cream.
+<!-- - Fun fact: Love cats, the universe and Ice cream. -->
 
 #### How to reach me: 
 <div>
